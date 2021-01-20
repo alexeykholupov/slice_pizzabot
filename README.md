@@ -12,4 +12,4 @@ N - North\
 S - South\
 E - East\
 W - West\
-D - Drop\
+D - Drop
