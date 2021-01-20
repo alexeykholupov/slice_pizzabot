@@ -1,0 +1,3 @@
+require 'pizzabot'
+
+Pizzabot.new(ARGV[0]).deliver
